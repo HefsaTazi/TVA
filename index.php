@@ -267,7 +267,6 @@
              <p style="color:#29293a">Parc d’Andron – Le Séquoia 30470 Aimargues France</p>
 			 <p style="color:#29293a">contactTVA@fr.getyooz.com</p>
 			 <p style="color:#29293a">+33 1 73 60 96 69</p>
-              <div class="group-md group-middle social-items"><a class="icon icon-md novi-icon mdi mdi-facebook" href="#"></a><a class="icon icon-md novi-icon mdi mdi-twitter" href="#"></a><a class="icon icon-md novi-icon mdi mdi-instagram" href="#"></a><a class="icon icon-md novi-icon mdi mdi-facebook-messenger" href="#"></a><a class="icon icon-md novi-icon mdi mdi-linkedin" href="#"></a><a class="icon icon-md novi-icon mdi mdi-snapchat" href="#"></a></div>
             </div>
             <div class="col-md-6 col-lg-3">
               <h5 class="title">Newsletter</h5>
