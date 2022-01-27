@@ -145,21 +145,21 @@
         <div class="row row-flex no-gutters">
           <div class="col-md-6 col-lg-3">
             <div class="blurb-boxed-2">
-              <div class="icon mdi mdi-credit-card-multiple"></div>
+              <div class=""></div>
               <h6 class="title"><a href="https://europe-yosoft.herokuapp.com/">Tables TVA de <span class="font-weight-bold">l'Europe</span> </a></h6>
               <p class="exeption">Taux de tva de 50 pays de l'Europe.</p>
             </div>
           </div>
           <div class="col-md-6 col-lg-3">
             <div class="blurb-boxed-2 blurb-boxed-dark">
-              <div class="icon linearicons-wallet"></div>
+              <div class=""></div>
               <h6 class="title">Tables TVA de <span class="font-weight-bold">l'Asie</span></h6>
               <p class="exeption">Taux de tva de 49 pays de l'Asie.</p>
             </div>
           </div>
           <div class="col-md-6 col-lg-3">
             <div class="blurb-boxed-2 blurb-boxed-darker">
-              <div class="icon mdi mdi-credit-card-multiple"></div>
+              <div class=""></div>
               <h6 class="title">Tables TVA de <span class="font-weight-bold">l'Afrique</span> </h6>
               <p class="exeption">Taux de tva de 55 pays de l'Afrique.</p>
             </div>
