@@ -42,7 +42,7 @@
                   <!-- RD Navbar Toggle-->
                   <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                   <!-- RD Navbar Brand-->
-                  <div class="rd-navbar-brand"><a class="brand" href="index.html"><img class="brand-logo-dark" src="images\Logo_Yooz_transparent-removebg-preview.png" alt="" width="200" height="45"/><img class="brand-logo-light" src="C:\Users\PC\Downloads\Logo_Yooz_transparent-removebg-preview.png" alt="" width="200" height="45"/></a>
+                  <div class="rd-navbar-brand"><a class="brand" href="index.html"><img class="brand-logo-dark" src="images/Logo_Yooz_transparent-removebg-preview.png" alt="" width="200" height="45"/><img class="brand-logo-light" src="C:\Users\PC\Downloads\Logo_Yooz_transparent-removebg-preview.png" alt="" width="200" height="45"/></a>
                   </div>
                 </div>
                 <div class="rd-navbar-main-element">
@@ -258,7 +258,7 @@
       <footer class="section footer-2">
         <div class="container">
           <div class="row row-40">
-            <div class="col-md-6 col-lg-3"><a class="footer-logo" href="index.html"><img src="images\Logo_Yooz_transparent-removebg-preview.png" alt="" width="200" height="45"/></a>
+            <div class="col-md-6 col-lg-3"><a class="footer-logo" href="index.html"><img src="images/Logo_Yooz_transparent-removebg-preview.png" alt="" width="200" height="45"/></a>
               <p style="color:#29293a">Yooz combine le plus haut niveau d’automatisation de traitement à une simplicité de démarrage et d’utilisation inégalée, pour aider les décideurs financiers et comptables à rendre leurs processus plus productifs et sûrs de la demande d’achat jusqu’au paiement.</p>
             </div>
               
