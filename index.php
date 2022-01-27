@@ -42,7 +42,7 @@
                   <!-- RD Navbar Toggle-->
                   <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                   <!-- RD Navbar Brand-->
-                  <div class="rd-navbar-brand"><a class="brand" href="index.html"><img class="brand-logo-dark" src="images/Logo_Yooz_transparent-removebg-preview.png" alt="" width="200" height="45"/><img class="brand-logo-light" src="C:\Users\PC\Downloads\Logo_Yooz_transparent-removebg-preview.png" alt="" width="200" height="45"/></a>
+                  <div class="rd-navbar-brand"><a class="brand" href="index.html"><img  src="images/Logo_Yooz_transparent-removebg-preview.png" alt="" width="200" height="45"/><img class="brand-logo-light" src="C:\Users\PC\Downloads\Logo_Yooz_transparent-removebg-preview.png" alt="" width="200" height="45"/></a>
                   </div>
                 </div>
                 <div class="rd-navbar-main-element">
