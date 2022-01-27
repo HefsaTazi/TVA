@@ -146,7 +146,7 @@
           <div class="col-md-6 col-lg-3">
             <div class="blurb-boxed-2">
               <div class="icon mdi mdi-credit-card-multiple"></div>
-              <h6 class="title"><a href="C:\Users\PC\Downloads\-889725133276859550prosperity\prosperity\TableEurope.html">Tables TVA de <span class="font-weight-bold">l'Europe</span> </a></h6>
+              <h6 class="title"><a href="https://europe-yosoft.herokuapp.com/">Tables TVA de <span class="font-weight-bold">l'Europe</span> </a></h6>
               <p class="exeption">Taux de tva de 50 pays de l'Europe.</p>
             </div>
           </div>
