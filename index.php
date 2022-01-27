@@ -42,7 +42,7 @@
                   <!-- RD Navbar Toggle-->
                   <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                   <!-- RD Navbar Brand-->
-                  <div class="rd-navbar-brand"><a class="brand" href="index.html"><img class="brand-logo-light" src="images/Logo_Yooz_transparent-removebg-preview.png" alt="" width="200" height="45"/></a>
+                  <div class="rd-navbar-brand"><a class="brand" href="index.html"><img class="brand-logo-dark" src="images/Logo_Yooz_transparent-removebg-preview.png" alt="" width="200" height="45"/><img class="brand-logo-light" src="images/Logo_Yooz_transparent-removebg-preview.png" alt="" width="200" height="45"/></a>
                   </div>
                 </div>
                 <div class="rd-navbar-main-element">
@@ -51,7 +51,7 @@
                     <ul class="rd-navbar-nav">
                       <li class="rd-nav-item active"><a class="rd-nav-link" href="index.html">Accueil</a>
                       </li>
-                      <li class="rd-nav-item"><a class="rd-nav-link">A propos</a>
+                      <li class="rd-nav-item"><a class="rd-nav-link"href="#">A propos</a>
                         <!-- RD Navbar Dropdown-->
                         <ul class="rd-menu rd-navbar-dropdown">
                           <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="https://www.getyooz.com/fr/entreprise">Société</a></li>
@@ -59,7 +59,7 @@
                           <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="https://www.getyooz.com/fr/blog">Blog</a></li>
                         </ul>
                       </li>
-                      <li class="rd-nav-item"><a class="rd-nav-link">Services</a>
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="#" >Services</a>
                         <!-- RD Navbar Dropdown-->
                         <ul class="rd-menu rd-navbar-dropdown">
                           <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="https://www.getyooz.com/fr/solution-dematerialisation">Plateforme Business Edition</a></li>
@@ -69,7 +69,7 @@
                       </li>
                       <li class="rd-nav-item"><a class="rd-nav-link" href="https://www.getyooz.com/fr/pourquoi-yooz">Pourquoi Yooz</a>
                       </li>
-                      <li class="rd-nav-item"><a class="rd-nav-link">Articles</a>
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="#">Articles</a>
                         <!-- RD Navbar Dropdown-->
                         <ul class="rd-menu rd-navbar-dropdown">
                           <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="https://www.getyooz.com/fr/fraude-documentaire">Fraude documentaire</a></li>
