@@ -206,13 +206,13 @@
             </div>
             <div class="col-sm-6 col-md-4 wow fadeInLeft" data-wow-delay="0.2s">
               <div class="blurb-image">
-                <div><img src="images/csv.png" width="59" height="60"/></div>
+                <div><img src="images/CSV.png" width="59" height="60"/></div>
                 <h6 class="title">Format CSV/XLS </h6>
               </div>
             </div>
             <div class="col-sm-6 col-md-4 wow fadeInLeft" data-wow-delay="0.3s">
               <div class="blurb-image">
-                <div><img src="images/word.png" width="59" height="60"/></div>
+                <div><img src="images/WORD.png" width="59" height="60"/></div>
                 <h6 class="title">Format Word</h6>
               </div>
             </div>
