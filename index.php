@@ -229,7 +229,7 @@
                 <div class="media-wrap"><img src="images/pricing-1-202x162.png" alt="" width="202" height="162"/>
                 </div>
                 <div class="title">Basic</div>
-                <p class="exeption">Visualiser les tables en vigueur du tous les pays.</p>
+                <p class="exeption">Visualiser les tables en vigueur dans tous les pays.</p>
                 <div class="heading-3 price">Gratuit</div><a class="button button-lg button-primary" href="#">Visualiser</a>
               </div>
             </div>
@@ -247,7 +247,7 @@
                 <div class="media-wrap"><img src="images/pricing-3-202x162.png" alt="" width="202" height="162"/>
                 </div>
                 <div class="title">Premium</div>
-                <p class="exeption">Possibilité de télécharger les tables TVA jusqu'à 3 fois par mois avec n'importe quel format, vous serez alerté par chaque changement d'information dans les tables.</p>
+                <p class="exeption">Possibilité de télécharger les tables TVA jusqu'à 3 fois par mois avec n'importe quel format. Vous serez alerté lors des changements d'informations dans les tables.</p>
                 <div class="heading-3 price">35€ / mois</div><a class="button button-lg button-primary" href="#">S'abonner</a>
               </div>
             </div>
